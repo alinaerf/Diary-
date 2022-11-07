@@ -1,6 +1,6 @@
 # Diary Application
 
-Time spent: **7** hours in total. 
+Time spent: **6.5** hours in total. 
 
 ## Implemented Features
 
